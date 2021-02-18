@@ -4,26 +4,19 @@
 
 
 01 - JavaScript Drum Kit
-Update style.css
-2 months ago
+
 02 - JS and CSS Clock
-Merge pull request #324 from akashrajum7/patch-2
-10 months ago
+
 03 - CSS Variables
-added spacing
-3 years ago
+
 04 - Array Cardio Day 1
-Mixed the order of items in the 'people' array
-4 months ago
+
 05 - Flex Panel Gallery
-Update CSS indentation
-2 years ago
+
 06 - Type Ahead
-Merge pull request #250 from shahroozme/patch-1
-2 years ago
+
 07 - Array Cardio Day 2
-deleted comma
-3 years ago
+
 08 - Fun with HTML5 Canvas
 added spacing
 3 years ago
