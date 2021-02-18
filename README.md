@@ -18,23 +18,17 @@
 07 - Array Cardio Day 2
 
 08 - Fun with HTML5 Canvas
-added spacing
-3 years ago
+
 09 - Dev Tools Domination
-Fix typos and extra code
-4 years ago
+
 10 - Hold Shift and Check Checkboxes
-Merge pull request #256 from Ememme/Ememme-patch-2
-2 years ago
+
 11 - Custom Video Player
-Merge pull request #227 from ElaMoscicka/master
-2 years ago
+
 12 - Key Sequence Detection
-Replacing http by https in cornify.js import, to avoid insecure mixed…
-17 months ago
+
 13 - Slide in on Scroll
-added spacing
-3 years ago
+
 14 - JavaScript References VS Copying
 Fix typo in finished js references vs copy
 3 years ago
